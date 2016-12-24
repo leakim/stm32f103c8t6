@@ -20,12 +20,12 @@ and in a second terminal
 ```
 cd src
 make cli
-> reset halt
+**> reset halt**
 ...
-> dump_image dump.bin 0x8000000 0x1ffff
+**> dump_image dump.bin 0x8000000 0x1ffff**
 ...
-> flash write_image erase maple_mini_boot20.bin 0x08000000
+**> flash write_image erase maple_mini_boot20.bin 0x08000000**
 ...
-> reset run
+**> reset run**
 > exit
 ```
