@@ -1,5 +1,5 @@
 # stm32f103c8t6
-Having fun with openOCD ST-Link V2 and stm2ff103
+Having fun with openOCD, an ST-Link V2 and a stm32f103c8t6 dev board (STM32_Smart v2.0)
 
 This projekt is based on [rogerclarkmelbourne/Arduino_STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki/Programming-an-STM32F103XXX-with-a-generic-%22ST-Link-V2%22-programmer-from-Linux)
 
