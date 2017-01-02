@@ -5,8 +5,8 @@ Having fun with OpenOCD, ST-Link V2 and a STM32F103C8T6 dev board (STM32_Smart v
 
 This projekt is based on [rogerclarkmelbourne/Arduino_STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki/Programming-an-STM32F103XXX-with-a-generic-%22ST-Link-V2%22-programmer-from-Linux)
 
-STM32F103C8R6 spec
-------------------
+Spec
+----
 ```
 ARM Cortex M3 @ 72MHz (32-bit
 64k Flash (0x0800 0000 - 0x0800 ffff)
