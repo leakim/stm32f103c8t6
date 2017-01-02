@@ -3,7 +3,7 @@
 # stm32f103c8t6
 Having fun with OpenOCD, ST-Link V2 and a STM32F103C8T6 dev board (STM32_Smart v2.0)
 
-This projekt is based on [rogerclarkmelbourne/Arduino_STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki/Programming-an-STM32F103XXX-with-a-generic-%22ST-Link-V2%22-programmer-from-Linux)
+See results, photos, notes and more in the [wiki](https://github.com/leakim/stm32f103c8t6/wiki) 
 
 Spec
 ----
@@ -15,10 +15,9 @@ I/O       (0x4000 0000 - 0x4002 3400)
 system    (0x1fff f000 - 0x1fff f800)
 ```
 
-This is what to do:
 
-See results in the [wiki](https://github.com/leakim/stm32f103c8t6/wiki) 
-
+This is what to do
+------------------
 ```
 cd src
 sudo cp stm32.list /etc/apt/sources.list.d/
